@@ -1,1 +1,3 @@
 file3.txt
+
+thi is the contet of file3.txt
